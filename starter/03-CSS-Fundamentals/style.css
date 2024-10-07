@@ -11,6 +11,13 @@ body {
   border-top: 10px solid #1098ad;
 }
 
+.container {
+  width: 800px;
+  /* margin-left: auto;
+  margin-right: auto; */
+  margin: 0 auto;
+}
+
 .main-header {
   background-color: #f7f7f7;
   /* padding: 20px;
@@ -160,7 +167,7 @@ a:active {
 /* LVHA */
 
 .post-img {
-  width: 800px;
+  width: 100%;
   height: auto;
 }
 
